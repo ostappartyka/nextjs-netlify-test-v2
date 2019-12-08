@@ -18,7 +18,7 @@ const Post = ({ post }) => {
       <meta name="description" content={description}/>
     </Head>
     <Link href="/">
-      <a>HOME</a>
+      <a>HOME TEST</a>
     </Link>
     <h1>{post.title}</h1>
     <p>{post.description}</p>
